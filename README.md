@@ -143,22 +143,5 @@ Bhagyam Kankariya
 📜 License
 
 This project is licensed under the MIT License.
-⭐ If you like this project, don’t forget to ⭐ Star the repository!
 
----
-
-## ❓ Want Additional Sections?
-
-I can also generate:
-
-✅ Animated GIF demo section  
-✅ CONTRIBUTING.md file  
-✅ Issues & roadmap table  
-✅ Live deployment instructions
-
-Just tell me! 😊
-::contentReference[oaicite:0]{index=0}
-```markdown
-![Homepage Preview](./screenshots/homepage.png)
-![View Expenses](./screenshots/view.png)
 
